@@ -1,0 +1,24 @@
+.first-col{
+	background-color: grey;
+	color: white;
+	height: 10vh;
+}
+
+.grey{
+	background-color: lightgrey;
+	border-right: 1px solid grey;
+}
+
+.orange{
+	background-color: orange;
+	color: white;
+
+}
+
+.container{
+	padding: 20px;
+}
+
+.row{
+	border-bottom: 1px solid grey;
+}
